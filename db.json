@@ -1,12 +1,6 @@
 {
   "budgets": [
     {
-      "id": "1",
-      "category": "Personal Care",
-      "description": "Manicure and Pedicure",
-      "amount": "6000"
-    },
-    {
       "id": "2",
       "category": "Bills",
       "description": "WIFI Subscription",
