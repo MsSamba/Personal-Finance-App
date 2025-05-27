@@ -1,0 +1,28 @@
+{
+  "budgets": [
+    {
+      "id": "1",
+      "category": "Personal Care",
+      "description": "Manicure and Pedicure",
+      "amount": "6000"
+    },
+    {
+      "id": "2",
+      "category": "Bills",
+      "description": "WIFI Subscription",
+      "amount": "2000"
+    },
+    {
+      "id": "00e6",
+      "category": "Entertainment",
+      "description": "Go to the Cinema",
+      "amount": 1500
+    },
+    {
+      "id": "8681",
+      "category": "Bills",
+      "description": "Post Pay Subscription",
+      "amount": 2000
+    }
+  ]
+}
